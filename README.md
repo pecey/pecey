@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔭 I am a graduate student at Indiana University, Bloomington with an interest in Reinforcement Learning.
+
 <!--
 **pecey/pecey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
