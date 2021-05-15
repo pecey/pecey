@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I am a graduate student at Indiana University, Bloomington with an interest in Reinforcement Learning.
+🔭 I am a graduate student at Indiana University. My current work is in the domain of stochastic online planning and reinforcement learning.
 
 <!--
 **pecey/pecey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
